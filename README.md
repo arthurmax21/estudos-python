@@ -15,7 +15,7 @@ Projeto prático desenvolvido em **Python** para simular a conferência diária 
 
 # Como executar o projeto
 1. Certifique-se de ter o **Python 3** instalado na máquina.
-2. Baixe o arquivo `resumo_dia.py`.
+2. Baixe o arquivo `estoque.py`.
 3. Execute no terminal com o comando:
    ```bash
    python estoque.py
