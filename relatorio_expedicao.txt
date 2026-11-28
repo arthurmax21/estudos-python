@@ -1,0 +1,3 @@
+Relatório de Expedição do dia
+Total geral de caixas expedidas: 12
+Produtos para reposição: ['b']
